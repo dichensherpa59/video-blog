@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/video-blog/static/css/main.50131c72.css",
+    "main.js": "/video-blog/static/js/main.7a5cd578.js",
+    "static/media/musicbg.jpg": "/video-blog/static/media/musicbg.f7b005c951e45d0e357d.jpg",
+    "static/media/logo_dark.png": "/video-blog/static/media/logo_dark.74974c384d23de779e9c.png",
+    "static/media/logo.png": "/video-blog/static/media/logo.751bfa4655891153aaf8.png",
+    "static/media/notfound.svg": "/video-blog/static/media/notfound.cda35d7489a4d655d317cdf81278c540.svg",
+    "index.html": "/video-blog/index.html",
+    "main.50131c72.css.map": "/video-blog/static/css/main.50131c72.css.map",
+    "main.7a5cd578.js.map": "/video-blog/static/js/main.7a5cd578.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.50131c72.css",
+    "static/js/main.7a5cd578.js"
+  ]
+}
